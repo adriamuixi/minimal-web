@@ -1,0 +1,13 @@
+
+ body {
+        font-family: 'Quicksand', sans-serif;
+        font-size: 18px;
+      }
+      .center-screen {
+         display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+	text-align: center;
+}
+
