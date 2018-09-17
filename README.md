@@ -1,2 +1,2 @@
-# minimal_web
+# Minimal Web
 Minimal web Adriamuixi.com
