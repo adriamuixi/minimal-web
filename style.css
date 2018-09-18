@@ -1,13 +1,21 @@
+body {
+    font-family: 'Anton', sans-serif;
+    font-size: 18px;
+}
 
- body {
-        font-family: 'Quicksand', sans-serif;
-        font-size: 18px;
-      }
-      .center-screen {
-         display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-	text-align: center;
+.color-red{
+    color: #a84443;
+}
+
+.color-gray{
+    color: #444;
+}
+
+.center-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
