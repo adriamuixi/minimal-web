@@ -25,6 +25,7 @@ p {
 a {
     color: lightseagreen;
     text-decoration: none;
+    cursor: pointer;
 }
 
 a:hover {
@@ -65,4 +66,9 @@ a:hover {
     left: 0;
     overflow: hidden;
     z-index: -100;
+}
+
+.icon_social {
+    max-width: 24px;
+    max-height: 24px;
 }

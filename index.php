@@ -19,5 +19,10 @@
         Contact to:
         <a href="mailto:info@adriamuixi.com">info@adriamuixi.com</a>
     </p>
+    <div>
+        <a href="https://www.linkedin.com/in/adria-muixi"><img src="assets/images/linkedin.png" class="icon_social"></a>
+        <a href="https://twitter.com/adriamuixi"><img src="assets/images/twitter_icon.png" class="icon_social"></a>
+        <a><img src="assets/images/soundcloud_icon.png" class="icon_social"></a>
+    </div>
 </div>
 </html>
