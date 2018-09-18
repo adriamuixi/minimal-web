@@ -71,4 +71,11 @@ a:hover {
 .icon_social {
     max-width: 24px;
     max-height: 24px;
+    margin: 4px;
+    -webkit-filter: sepia(100%);
+    -webkit-transition : -webkit-filter 500ms linear
+}
+
+.icon_social:hover {
+    -webkit-filter: sepia(0%);
 }
