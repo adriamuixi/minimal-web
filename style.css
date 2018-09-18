@@ -1,13 +1,37 @@
 body {
-    font-family: 'Anton', sans-serif;
-    font-size: 18px;
+    font-family: 'Amatic SC', sans-serif;
 }
 
-.color-red{
+.color-red {
     color: #a84443;
 }
 
-.color-gray{
+p {
+    margin: 2px;
+}
+
+.first-paragraph {
+    font-size: 34px;
+}
+
+.second-paragraph {
+    font-size: 45px;
+}
+
+.third-paragraph {
+    font-size: 27px;
+}
+
+a {
+    color: lightseagreen;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #1E8E86;
+}
+
+.color-gray {
     color: #444;
 }
 
@@ -19,3 +43,26 @@ body {
     text-align: center;
 }
 
+.box {
+    padding: 5px;
+    background: rgba(255, 255, 255, .8);
+    border: 3px solid rgba(168, 66, 67, .6);
+}
+
+.background-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.box-video {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+}
