@@ -3,6 +3,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="robots" content="index, follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Adriamuixi.com - Personal Web Page from Adrià Muixí</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="Description" content="My curiosities, projects, articles and evolution within the web development sector">
+    <meta name="Keywords" content="Adrià, Muixñi, adrià muixí, projects, github, web development, software, programming">
+    <meta property="og:title" content="Adriamuixi.com - Personal Web Page from Adrià Muixí">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="My curiosities, projects, articles and evolution within the web development sector">
+    <meta property="og:url" content="http://www.adriamuixi.com/">
+    <meta property="og:site_name" content="adriamuixi.com">
 </head>
 
 <body class="center-screen">
